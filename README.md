@@ -16,3 +16,4 @@ For now, I am just using the CRC32 hash of each game to uniquely identify it. In
 # Sources
 
 * [MiSTer Addons](https://misteraddons.com/)
+* [Wikipedia](https://en.wikipedia.org/wiki/SuFami_Turbo#Games)
